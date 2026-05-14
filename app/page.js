@@ -1,5 +1,3 @@
 export default function Page() {
-  return (
-    <h1>Hola</h1>
-  );
+  return <h1>The Wild Oasis. Welcome to paradise</h1>;
 }
